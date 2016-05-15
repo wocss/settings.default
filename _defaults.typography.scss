@@ -5,20 +5,20 @@
 //  Font sizes
 //  --------------------------------------------------------------------------
 
-$fz-xl: 1.5em;
-$fz-lg: 1.25em;
-$fz-md: 1.1em;
-$fz-sm: .9em;
-$fz-xs: .75em;
+$fz-xl: 1.5em !default;
+$fz-lg: 1.25em !default;
+$fz-md: 1.1em !default;
+$fz-sm: .9em !default;
+$fz-xs: .75em !default;
 
-$fz-h00: 3rem;
-$fz-h0 : 2.4rem;
-$fz-h1 : 2rem;
-$fz-h2 : 1.5rem;
-$fz-h3 : 1.25rem;
-$fz-h4 : 1rem;
-$fz-h5 : .875rem;
-$fz-h6 : .75rem;
+$fz-h00: 3rem !default;
+$fz-h0 : 2.4rem !default;
+$fz-h1 : 2rem !default;
+$fz-h2 : 1.5rem !default;
+$fz-h3 : 1.25rem !default;
+$fz-h4 : 1rem !default;
+$fz-h5 : .875rem !default;
+$fz-h6 : .75rem !default;
 
 $font-sizes: (
   'xl': $fz-xl,
