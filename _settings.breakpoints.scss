@@ -1,0 +1,17 @@
+//  Breakpoints
+//  ==========================================================================
+
+
+$breakpoint-xs: 320px;  // 20em
+$breakpoint-sm: 480px;  // 30em
+$breakpoint-md: 768px;  // 48em
+$breakpoint-lg: 992px;  // 62em
+$breakpoint-xl: 1200px; // 75em
+
+$breakpoints: (
+  'xs': $breakpoint-xs,
+  'sm': $breakpoint-sm,
+  'md': $breakpoint-md,
+  'lg': $breakpoint-lg,
+  'xl': $breakpoint-xl
+)
