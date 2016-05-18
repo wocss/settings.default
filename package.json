@@ -1,5 +1,5 @@
 {
-  "name": "wocss-defaults",
+  "name": "wocss-settings-defaults",
   "version": "0.0.1",
   "description": "Global, default settings for the wocss framework",
   "main": "_settings.defaults.scss",
