@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Global, default settings for the wocss framework",
   "main": "_settings.defaults.scss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wocss/settings.default.git"
