@@ -17,8 +17,8 @@ $fz-h1 : 2rem !default;
 $fz-h2 : 1.5rem !default;
 $fz-h3 : 1.25rem !default;
 $fz-h4 : 1rem !default;
-$fz-h5 : .875rem !default;
-$fz-h6 : .75rem !default;
+$fz-h5 : $fz-h4 !default;
+$fz-h6 : $fz-h4 !default;
 
 $font-sizes: (
   'xl': $fz-xl,
