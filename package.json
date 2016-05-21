@@ -1,11 +1,11 @@
 {
   "name": "wocss-settings-defaults",
   "version": "0.0.1",
-  "description": "Global, default settings for the wocss framework",
+  "description": "Global, defaults settings for the wocss framework",
   "main": "_settings.defaults.scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wocss/settings.default.git"
+    "url": "git+https://github.com/wocss/settings.defaults.git"
   },
   "keywords": [
     "wocss",
@@ -15,7 +15,7 @@
   "author": "Gean Carlos <gean.marroquin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wocss/settings.default/issues"
+    "url": "https://github.com/wocss/settings.defaults/issues"
   },
-  "homepage": "https://github.com/wocss/settings.default#readme"
+  "homepage": "https://github.com/wocss/settings.defaults#readme"
 }
