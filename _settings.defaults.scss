@@ -1,26 +1,31 @@
-//  Defaults
-//  ==========================================================================
-//
+/*------------------------------------*\
+  #Defaults
+\*------------------------------------*/
+
 //  These variables are wocss' defaults; they should not be modified or
 //  adjusted directly; you should predefine the variables in your own project.
 
 
+
+
+
 //  Low level base settings
-//  --------------------------------------------------------------------------
 //
 // These variables are framework variables, sourced from variables defined
 // above. Feel free to use these variables throughout your project, but do not
 // modify or reassign them.
 
-@import "./settings.spaces";
-@import "./settings.colors";
+@import "settings.spaces";
+@import "settings.colors";
+
+
+
 
 
 //  High-level base settings.
-//  --------------------------------------------------------------------------
 
-@import "./settings.typography";
-@import "./settings.breakpoints";
+@import "settings.typography";
+@import "settings.breakpoints";
 
 $color-primary  : #7809BA !default;
 $color-secondary: #D4007C !default;
