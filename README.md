@@ -12,7 +12,7 @@ $ npm install wocss-settings-defaults --save
 
 ## Usage
 
-With a tool like [webpack](https://webpack.github.io/) you can write:
+With a tool like [webpack](https://webpack.github.io/) you can import this module writing:
 
 ```scss
 @import '~wocss-settings-defaults';
