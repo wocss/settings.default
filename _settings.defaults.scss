@@ -2,39 +2,21 @@
   #Defaults
 \*------------------------------------*/
 
-//  These variables are wocss' defaults; they should not be modified or
-//  adjusted directly; you should predefine the variables in your own project.
+// high-level base settings.
 
-
-
-
-
-//  Low level base settings
-//
-// These variables are framework variables, sourced from variables defined
-// above. Feel free to use these variables throughout your project, but do not
-// modify or reassign them.
-
-@import "settings.spaces";
-@import "settings.colors";
-
-
-
-
-
-//  High-level base settings.
-
-@import "settings.typography";
-@import "settings.breakpoints";
+// your own project colors
 
 $color-primary  : #7809BA !default;
 $color-secondary: #D4007C !default;
 $color-tertiary : #3A14BE !default;
 
-$base-background-color: $white !default;
+
+// your own project base settings
+
+$base-background-color: #ffffff !default;
 $base-font-family     : 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
 $base-font-size       : 1em !default;
-$base-font-weight     : $fw-regular !default;
+$base-font-weight     : 400 !default;
 $base-line-height     : 1.5 !default;
 $base-text-color      : #3d3d3d !default;
 
@@ -43,4 +25,7 @@ $base-border-radius: .313em !default; // 5px
 $base-border-width : 1px !default;
 $base-border       : $base-border-width solid $base-border-color !default;
 
-$base-spacing-unit : 1.5rem !default; // gutter
+
+// framework gutter
+
+$base-spacing-unit : 1.5rem !default;
