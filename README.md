@@ -2,7 +2,7 @@
 
 > Setting
 
-The `wocss-settings-defaults` module contains your own project defaults variables, also variables and settings that are **required** for using any of the rest of the framework.
+The `wocss-settings-defaults` module contains base project defaults variables, also variables and settings that could be **required** for using any of the rest of the framework.
 
 Install using npm:
 
