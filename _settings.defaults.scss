@@ -29,3 +29,12 @@ $base-border       : $base-border-width solid $base-border-color !default;
 // framework gutter
 
 $base-spacing-unit : 1.5rem !default;
+
+
+
+
+
+// If we have included this file, set a variable to tell the rest of the
+// framework that we have some defaults settings.
+
+$wocss-settings-defaults: true;
