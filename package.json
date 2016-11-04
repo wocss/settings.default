@@ -1,7 +1,7 @@
 {
-  "name": "[DEPRECATED] wocss-settings-defaults",
+  "name": "wocss-settings-defaults",
   "version": "1.0.2",
-  "description": "Global, defaults settings for the wocss framework",
+  "description": "[DEPRECATED] Global, defaults settings for the wocss framework",
   "main": "_settings.defaults.scss",
   "repository": {
     "type": "git",
