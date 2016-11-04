@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> Checkout the [starter-kit](https://github.com/wocss/starter-kit) repository
+
 # Defaults
 
 > Setting
